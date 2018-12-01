@@ -1,0 +1,17 @@
+{
+  "name": "issue-3317",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.16.7",
+    "prisma-client-lib": "^1.21.1",
+    "ts-node": "^7.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}
